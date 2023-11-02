@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToastNumber</string>
+    <string name="hitungan">0</string>
+    <string name="button_toast">Toast</string>
+    <string name="button_count">Count</string>
+    <string name="hello_toast">Hello Toast</string>
+    <string name="button_back">Back</string>
+    <string name="text_edit">Input Here</string>
+</resources>
